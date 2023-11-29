@@ -60,8 +60,6 @@ OldRecRoom is a server for old Rec Room builds!
 
 That means OldRec is  64.37%* faster then OpenRec 
 
-(* bc my math is shit)
-
 ## Build support list
 
 
