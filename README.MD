@@ -45,7 +45,6 @@ That means OldRec is  64.37%* faster then OpenRec
 ## Build support list
 
 
-@@ -41,14 +59,14 @@ This project is not affiliated with [Rec Room](https://recroom.com/) in any way,
 | 2016 | ✅       | 
 | 2017 | ✅       | 
 | 2018 | ✅       |
