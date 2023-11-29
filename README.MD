@@ -1,13 +1,13 @@
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/1179318162328649768/1179318223842316358/bg.PNG?ex=657958af&is=6566e3af&hm=a11753e567ff16cdd05fc12adf00afa74cf498488a94b058f39deb117163960b" alt="YAPP">\
-
+> *
 ## About Rec.js
 
 Rec.js is a server for old Rec Room builds!
 
 This project is similar to OpenRec or Vault Server. If you're looking for a server that is more like OpenRec Live or OpenLabs, check out [LunarRec](https://github.com/RealMCoded/LunarRec).
 
-> *Note: LunarRec is not production ready software. Use at your own risk!*
+
 
 ## Disclaimer
 
