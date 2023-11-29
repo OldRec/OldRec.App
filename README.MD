@@ -27,24 +27,6 @@ OldRecRoom is a server for old Rec Room builds!
 ❌localhostable server for single person use 
 
 
-## Build support list
-
-
-
-| Year | Supported | 
-|------|-----------|
-| 2016 | ✅       | 
-| 2017 | ✅       | 
-| 2018 | ✅       |
-| 2019 | ✅❌     | 
-| 2019 | ✅❌     |  
-| 2020 | ✅❌     | 
-| 2021 | ❌        | 
-| 2022 | ❌        |       
-
-
-
-
 ## Performance Metrics
 
 - Boot Time: 6.5 seconds
