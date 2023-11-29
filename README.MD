@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/1179318162328649768/1179318223842316358/bg.PNG?ex=657958af&is=6566e3af&hm=a11753e567ff16cdd05fc12adf00afa74cf498488a94b058f39deb117163960b" alt="YAPP">\
-> *
+> *aaaa
 ## About Rec.js
 
 Rec.js is a server for old Rec Room builds!
