@@ -23,9 +23,9 @@ OldRecRoom is a server for old Rec Room builds!
 ❌ slow and bloated
 
 ❌Offline
-❌localhostable server for single person use ([It is possible to play with others however!](#q-is-it-possible-to-play-with-other-people-with-recnetjs))
 
 ❌localhostable server for single person use 
+
 
 ## Build support list
 
