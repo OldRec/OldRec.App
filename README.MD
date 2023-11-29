@@ -45,17 +45,16 @@ That means OldRec is  64.37%* faster then OpenRec
 ## Build support list
 
 
+| Year | Supported | 
+|------|-----------|
 | 2016 | ✅       | 
 | 2017 | ✅       | 
 | 2018 | ✅       |
+| 2019 | ✅❌     | 
 | 2019 | ✅❌     |  (Gonna add support at a later date
 | 2020 | ✅❌     | 
-| 2019 | ✅❌     |  (add support at a later date
-| 2020 | ✅❌     | (add support at a later date
 | 2021 | ❌        | 
-| 2022 | ❌        |             
-| 2023 | ❌        | 
-
+| 2022 | ❌        |       
 
 
 ## Credits
