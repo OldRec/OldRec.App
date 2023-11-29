@@ -1,5 +1,5 @@
 <div align="center">
-<img src="bg.png" alt="A yellow Rec Room logo with text saying 'Rec.js'.">
+<img src="bg.png" alt="Not loaded lmao'.">
 </div>
 
 ## About Rec.js
