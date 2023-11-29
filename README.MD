@@ -76,7 +76,11 @@ That means OldRec is  64.37%* faster then OpenRec
 | 2023 | ❌        | 
 
 
-#
-# Creds 
+
+## Credits
 - Brahman - Lead Dev for the OldRec-Client
+
+- stuartt_mcoded ([mcoded.xyz](https://mcoded.xyz)) - Lead Developer of rec.js
+
+- andry6702 ([Twitter: @andry6702](https://twitter.com/andry6702)) - Help with getting more 2017 builds work in rec.js
 
